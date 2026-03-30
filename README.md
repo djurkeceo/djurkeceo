@@ -94,7 +94,7 @@ const nextUp = [
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djurkeceo&langs_count=6&show_icons=true&locale=en&theme=transparent&layout=donut)](https://github.com/djurkeceo)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djurkeceo&langs_count=6&theme=transparent&layout=donut)](https://github.com/djurkeceo)
 
 </div>
 
@@ -102,15 +102,7 @@ const nextUp = [
 
 <div align="center">
 
-[![Djurke's Github Stats](https://github-readme-stats.vercel.app/api?username=djurkeceo&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact)](https://github.com/djurkeceo)
-
-</div>
-
-### My Streak:
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=djurkeceo&theme=transparent)](https://git.io/streak-stats)
+[![Djurke's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=djurkeceo&show_icons=true&count_private=true&theme=transparent)](https://github.com/djurkeceo)
 
 </div>
 
