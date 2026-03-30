@@ -88,13 +88,11 @@ const nextUp = [
 
 ---
 
-## 🎖️ My Statistics
-
 ### Top Languages:
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=djurkeceo&langs_count=6&theme=transparent&layout=donut)](https://github.com/djurkeceo)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=djurkeceo&langs_count=6&theme=transparent&layout=donut)](https://github.com/djurkeceo)
 
 </div>
 
@@ -102,10 +100,9 @@ const nextUp = [
 
 <div align="center">
 
-[![Djurke's Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=djurkeceo&show_icons=true&count_private=true&theme=transparent)](https://github.com/djurkeceo)
+[![Djurke's Github Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=djurkeceo&show_icons=true&count_private=true&theme=transparent)](https://github.com/djurkeceo)
 
 </div>
-
 
 ---
 
