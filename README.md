@@ -33,7 +33,7 @@
 
 **🛠️ Tools & Environment**
 
-[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,git,github,npm,vscode,vercel,aftereffects,premiere)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows,bash,git,github,npm,vscode,vercel,aftereffects,premiere,illustrator)](https://skillicons.dev)
 
 ---
 
