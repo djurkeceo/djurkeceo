@@ -29,7 +29,7 @@
 
 **⚙️ Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,c,nodejs,express,mongo,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sql,nodejs,express,mongo,supabase)](https://skillicons.dev)
 
 **🛠️ Tools & Environment**
 
