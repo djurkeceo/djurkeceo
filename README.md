@@ -37,10 +37,6 @@
 
 ---
 
-## 🔄 My Lifecycle
-
----
-
 ### 📩 Let's Talk
 
 <div align="center">
