@@ -39,41 +39,6 @@
 
 ## 🔄 My Lifecycle
 
-
-```typescript
-const djurke = {
-  name:     "Djurke",
-  role:     "Fullstack Developer",
-  location: "Serbia 🇷🇸",
-  os:       "Fedora Linux 🐧",
-};
-
-while (alive) {
-  code();
-  fixBugs();
-  learnSomethingNew();
-  riceTheDesktop();
-  sleep();
-  repeat();
-}
-```
-
----
-
-### 🌱 Currently Learning
-
-```typescript
-const nowLearning = [
-  "React + TypeScript -> Advanced Type Patterns & Typescript Configuration",
-  "C# + .NET -> OOP, Generics, Error Handling & Events",
-];
-
-const nextUp = [
-  "ASP.NET Core & Typescript REST APIs",
-  "React Query & State Management",
-];
-```
-
 ---
 
 ### 📩 Let's Talk
