@@ -9,6 +9,7 @@
 ### ℹ️ About Me
 
 | | |
+|---|---|
 | 🌍 I'm a **Fullstack Developer** from **Serbia 🇷🇸** |
 | 💻 I work with **React**, **TypeScript**, **C#** and **.NET** |
 | 🌱 Currently leveling up in **React + TypeScript** and **C# Events i Delegates** |
