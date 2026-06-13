@@ -12,7 +12,7 @@
 |---|---|
 | 🌍 I'm a **Fullstack Developer** from **Serbia 🇷🇸** |
 | 💻 I work with **React**, **TypeScript**, **C#** and **.NET** |
-| 🌱 Currently leveling up in **React + TypeScript** and **C# Events i Delegates** |
+| 🌱 Currently leveling up in **React + TypeScript** and **C# Events & Delegates** |
 | 🟢 **Open to work** — looking for Junior Fullstack / Backend roles |
 
 > I'm a developer who loves both the **frontend craft** and **backend logic** — building interfaces that feel great and APIs that just work. I take learning seriously, go deep before going wide, and I'm always improving my workflow on Linux.
