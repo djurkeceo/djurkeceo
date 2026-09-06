@@ -23,11 +23,11 @@
 
 **🌐 Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite)](https://skillicons.dev)
 
 **⚙️ Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,express,postgresql,mongo,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,nodejs,postgresql,mongo,supabase)](https://skillicons.dev)
 
 **🛠️ Tools & Environment**
 
@@ -41,7 +41,7 @@
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://https://www.linkedin.com/in/filip-%C4%91uri%C4%87-842237348/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/djurkeceo)
-[![E-Mail](https://skillicons.dev/icons?i=gmail)](mailto:djurkesajt@gmail.com)
+[![E-Mail](https://skillicons.dev/icons?i=gmail)](mailto:djurkef@gmail.com)
 
 </div>
 
